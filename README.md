@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Vu Kieu Hai Hoa, :V 
 - 👀 I’m interested in develop website, I want to become Full-stack developer in future.
-- 🌱 I’m currently learning NextJS and NestJS.
-- 💞️ I have 2 years experiences about React and Node(Express) and Database.
+- 🌱 I’m currently learning NextJS and Nodejs and Go.
+- 💞️ I have 1 years experiences about React and Node(Express) and Database.
 - 📫 How to reach me: send mail to vukieuhaihoa@gmail.com.
 Thank you very much <3 
 
